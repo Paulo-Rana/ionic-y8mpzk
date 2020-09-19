@@ -1,34 +1,9 @@
-ion-content {
-
-  
-}
-
-h2{
+ion-title {
   color: #000000;
   text-align:left;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif; 
 }
-
-p{
-text-align: justify;
- color:#000000;
-   font-family: Arial, Helvetica, sans-serif;
-}
-
-ion-item {
-   color:#000000;
-
-}
-
-ion-chip {
-
-   color:#000000;
-
-}
-
-
-   
-
-h2{
-  c color:#000000;
+img {
+  max-width: 200%;
+  height: auto;
 }
